@@ -2,15 +2,16 @@
 .navbar {
   overflow: hidden;
   background-color: midnightblue;
-  font-family: Arial;
-  margin:0px;
-  padding:0px;
+  font-family: system-ui;
+  margin: auto;
+  padding: 0px;
+  width: fit-content;
+  float: center;
 }
 
 /* Links inside the navbar */
 .navbar a {
   float: left;
-  font-family: system-ui;
   font-size: 16px;
   color: white;
   text-align: center;
