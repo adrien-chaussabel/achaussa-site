@@ -1,0 +1,10 @@
+.about_box {
+  background-color: lightblue;
+  margin: 10%;
+  margin-top: 2%;
+}
+
+.about_box h2{
+  font-family: system-ui;
+  padding: 10px;
+}
