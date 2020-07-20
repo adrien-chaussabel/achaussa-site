@@ -2,9 +2,10 @@
   background-color: lightblue;
   margin: 25%;
   margin-top: 2%;
+  border-radius: 10px;
 }
 
 .about_box h2{
-  font-family: system-ui;
+  font-family: "Segoe UI";
   padding: 10px;
 }

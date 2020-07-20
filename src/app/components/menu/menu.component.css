@@ -2,17 +2,19 @@
 .navbar {
   overflow: hidden;
   background-color: midnightblue;
-  font-family: system-ui;
+  font-family: "Segoe UI";
+  font-weight: 500;
   margin: auto;
   padding: 0px;
   width: fit-content;
   float: center;
+  border-radius: 8px;
 }
 
 /* Links inside the navbar */
 .navbar a {
   float: left;
-  font-size: 16px;
+  font-size: 20px;
   color: white;
   text-align: center;
   padding: 14px 16px;
