@@ -2,4 +2,10 @@
   font-family: "Segoe UI";
   text-align:center;
   font-size: 26px;
+  margin: auto;
+  width: fit-content;
+}
+
+.name_box h2 {
+  padding: 1rem;
 }

@@ -1,0 +1,24 @@
+.container {
+  margin: auto;
+  width:fit-content;
+  height:fit-content;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+.soclink {
+  background-color: #302657;
+  width: fit-content;
+  height: fit-content;
+  margin: 1em;
+  border-radius: 30px;
+  font-size: 36px;
+  text-align: center;
+  padding: 10px 15px;
+  color: white;
+  text-decoration: none;
+}
+
+.soclink:hover {
+  background-color: #ADA2DB;
+}
