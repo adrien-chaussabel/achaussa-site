@@ -1,11 +1,19 @@
 .name_box {
   font-family: "Segoe UI";
   text-align:center;
-  font-size: 26px;
   margin: auto;
   width: fit-content;
+  padding: 1rem;
 }
 
-.name_box h2 {
+.name_box a {
+  color: black;
   padding: 1rem;
+  font-size: 32px;
+  text-decoration: none;
+  font-weight: 700;
+}
+
+.name_box a:hover{
+  color: #5C5C5C;
 }

@@ -1,11 +1,26 @@
+.content {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
 .about_box {
-  background-color: lightblue;
-  margin: 25%;
-  margin-top: 2%;
+  display:block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 900px;
   border-radius: 10px;
 }
 
 .about_box h2{
+  font-weight: 300;
+  padding:0px;
+  margin-bottom: 0px;
+  border-bottom: 1px solid;
+}
+
+.about_box p{
   font-family: "Segoe UI";
+  margin-top: 0px;
   padding: 10px;
 }

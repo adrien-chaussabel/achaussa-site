@@ -1,27 +1,29 @@
 /* Navbar container */
 .navbar {
   overflow: hidden;
-  background-color: midnightblue;
   font-family: "Segoe UI";
   font-weight: 500;
   margin: auto;
+  margin-top: 20px;
   padding: 0px;
   width: fit-content;
   float: center;
-  border-radius: 8px;
+  border-radius: 1rem;
 }
 
 /* Links inside the navbar */
 .navbar a {
-  float: left;
+  display: inline-block;
+  letter-spacing: 3px;
+  font-weight: 300;
   font-size: 20px;
-  color: white;
+  color: darkgrey;
   text-align: center;
-  padding: 14px 16px;
+  padding: 14px 1rem;
   text-decoration: none;
 }
 
 /* Add a red background color to navbar links on hover */
-.navbar a:hover, .dropdown:hover .dropbtn {
-  background-color: darkcyan;
+.navbar a:hover {
+  color:black;
 }

@@ -7,6 +7,7 @@ import { MenuComponent } from './components/menu/menu.component';
 import { AboutMeComponent } from './components/about-me/about-me.component';
 import { HeaderComponent } from './components/header/header.component';
 import { SocialsComponent } from './components/socials/socials.component';
+import { ExperienceComponent } from './components/experience/experience.component';
 
 @NgModule({
   declarations: [
@@ -14,7 +15,8 @@ import { SocialsComponent } from './components/socials/socials.component';
     MenuComponent,
     AboutMeComponent,
     HeaderComponent,
-    SocialsComponent
+    SocialsComponent,
+    ExperienceComponent
   ],
   imports: [
     BrowserModule,

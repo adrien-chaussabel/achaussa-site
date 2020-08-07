@@ -7,11 +7,11 @@
 }
 
 .soclink {
-  background-color: #302657;
+  background-color: midnightblue;
   width: fit-content;
   height: fit-content;
-  margin: 1em;
-  border-radius: 30px;
+  margin: .3em;
+  border-radius: 1rem;
   font-size: 36px;
   text-align: center;
   padding: 10px 15px;
@@ -20,5 +20,5 @@
 }
 
 .soclink:hover {
-  background-color: #ADA2DB;
+  background-color: #8181F7;
 }

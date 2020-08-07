@@ -3,4 +3,7 @@ body {
   margin:0px;
   background-color:#C6DAF6;
   font-family:'Segoe UI';
+  width: 100%;
+  height: 100%;
+  box-sizing: border-box;
 }
